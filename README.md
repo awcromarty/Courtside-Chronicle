@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome Courtside Chronicle
 
-You can use the [editor on GitHub](https://github.com/awcromarty/Courtside-Chronicle/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+At Courtside Chronicle our goal is to deliver comprehensive, quality content to impassioned basketball fans.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Most Recent
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
